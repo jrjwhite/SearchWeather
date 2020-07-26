@@ -6,3 +6,6 @@
 
 天气接口  https://yiketianqi.com/api
 
+查看天气查询访问下面的网址
+
+https://jrjwhite.github.io/SearchWeather/.
